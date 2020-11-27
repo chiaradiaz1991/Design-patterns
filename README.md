@@ -8,4 +8,7 @@ Design patterns have three main benefits:
 - Patterns can be expressive: When we look at a pattern there’s generally a set structure and vocabulary to the solution presented that can help express rather large solutions quite elegantly.
 
 
-Source: https://addyosmani.com/resources/essentialjsdesignpatterns/book and https://www.dofactory.com/javascript/design-patterns
+Sources: 
+https://addyosmani.com/resources/essentialjsdesignpatterns/book
+https://www.dofactory.com/javascript/design-patterns
+https://sourcemaking.com/design_patterns
