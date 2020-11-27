@@ -3,6 +3,8 @@ Specify the kinds of objects to create using a prototypical instance,
 and create new objects by copying this prototype.
 
 *if we have an object and we want to have a new object but with the same values.
+
+type: creational
 """
 
 import copy

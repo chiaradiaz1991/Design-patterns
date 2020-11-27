@@ -4,6 +4,8 @@ which class to instantiate. Factory Method lets a class defer
 instantiation to subclasses.
 
 benefit: flexible bacause we don't have to depend in any instance in particular.
+
+type: creational
 """
 
 import abc

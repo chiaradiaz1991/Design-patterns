@@ -3,6 +3,8 @@
 access to it.
 * Initialization at first use
 * The instance of the object is created by one user and the following users will use *this* instance
+
+type: Creational
 """
 
 
